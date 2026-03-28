@@ -1,0 +1,11 @@
+D:\sample\LibrarySystem\LibrarySystem.Repositories\bin\Debug\net8.0\LibrarySystem.Repositories.deps.json
+D:\sample\LibrarySystem\LibrarySystem.Repositories\bin\Debug\net8.0\LibrarySystem.Repositories.dll
+D:\sample\LibrarySystem\LibrarySystem.Repositories\bin\Debug\net8.0\LibrarySystem.Repositories.pdb
+D:\sample\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\sample\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.AssemblyInfoInputs.cache
+D:\sample\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.AssemblyInfo.cs
+D:\sample\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.csproj.CoreCompileInputs.cache
+D:\sample\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.dll
+D:\sample\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\refint\LibrarySystem.Repositories.dll
+D:\sample\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\LibrarySystem.Repositories.pdb
+D:\sample\LibrarySystem\LibrarySystem.Repositories\obj\Debug\net8.0\ref\LibrarySystem.Repositories.dll

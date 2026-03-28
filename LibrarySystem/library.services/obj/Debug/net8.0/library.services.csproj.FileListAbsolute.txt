@@ -1,0 +1,15 @@
+D:\sample\LibrarySystem\library.services\bin\Debug\net8.0\library.services.deps.json
+D:\sample\LibrarySystem\library.services\bin\Debug\net8.0\library.services.dll
+D:\sample\LibrarySystem\library.services\bin\Debug\net8.0\library.services.pdb
+D:\sample\LibrarySystem\library.services\bin\Debug\net8.0\LibrarySystem.Repositories.dll
+D:\sample\LibrarySystem\library.services\bin\Debug\net8.0\LibrarySystem.Repositories.pdb
+D:\sample\LibrarySystem\library.services\obj\Debug\net8.0\library.services.csproj.AssemblyReference.cache
+D:\sample\LibrarySystem\library.services\obj\Debug\net8.0\library.services.GeneratedMSBuildEditorConfig.editorconfig
+D:\sample\LibrarySystem\library.services\obj\Debug\net8.0\library.services.AssemblyInfoInputs.cache
+D:\sample\LibrarySystem\library.services\obj\Debug\net8.0\library.services.AssemblyInfo.cs
+D:\sample\LibrarySystem\library.services\obj\Debug\net8.0\library.services.csproj.CoreCompileInputs.cache
+D:\sample\LibrarySystem\library.services\obj\Debug\net8.0\library..6292D6B2.Up2Date
+D:\sample\LibrarySystem\library.services\obj\Debug\net8.0\library.services.dll
+D:\sample\LibrarySystem\library.services\obj\Debug\net8.0\refint\library.services.dll
+D:\sample\LibrarySystem\library.services\obj\Debug\net8.0\library.services.pdb
+D:\sample\LibrarySystem\library.services\obj\Debug\net8.0\ref\library.services.dll
